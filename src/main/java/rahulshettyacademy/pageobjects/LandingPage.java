@@ -61,10 +61,6 @@ public class LandingPage extends AbstractComponent{
 	
 	
 	
-	
-	
-	
-	
 
 	
 	
