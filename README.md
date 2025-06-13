@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boidik Das</h1>
 <h3 align="center">A passionate testing professional</h3>
 
-- 🌱 I’m currently learning **Selenium,API automation and testing frameworks like TestNg,cucumber**
+- 🌱 Passionate in **Selenium,API automation and testing frameworks like TestNg,cucumber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
